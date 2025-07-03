@@ -1,0 +1,81 @@
+{
+  "hero": {
+    "title": "Ciao, sono Gabriel Iglesias",
+    "subtitle": "Sviluppatore Frontend e Creativo",
+    "cta": "Guarda i miei progetti"
+  },
+  "about": {
+  "title": "Chi sono",
+  "description": "Sono uno studente avanzato di Ingegneria dei Sistemi Informativi e lavoro come sviluppatore Front-End. Sono appassionato di tecnologia e apprendimento continuo, guidato dall’amore per l’arte e l’estetica che cerco sempre di riflettere in ogni esperienza digitale.",
+  "strengths": [
+    "Responsabilità",
+    "Impegno",
+    "Pensiero creativo",
+    "Gestione dello stress",
+    "Comunicazione efficace",
+    "Apprendimento continuo"
+  ],
+  "languages": "Inglese avanzato · Italiano e portoghese base"
+},
+"education": {
+  "title": "Formazione accademica",
+  "university": {
+    "title": "Ingegneria dei Sistemi Informativi",
+    "institution": "Università Tecnologica Nazionale, Mendoza",
+    "details": "Dal 2022 · Attualmente al terzo anno"
+  },
+  "subjectsTitle": "Materie superate",
+  "subjects": [
+    "Basi di Dati (2024)",
+    "Sintassi e Semantica dei Linguaggi (2023)",
+    "Sistemi Operativi (2023)",
+    "Paradigmi di Programmazione (2024)",
+    "Analisi dei Sistemi Informativi (2023)",
+    "Ingegneria e Società (2023)",
+    "Sistemi e Processi Aziendali (2022)",
+    "Probabilità e Statistica (2024)",
+    "Sviluppo Software (2024)",
+    "Calcolo Parallelo (2024)"
+  ],
+  "complementary": [
+    {
+      "title": "Corso online di sviluppo di videogiochi",
+      "institution": "UTN Chaco",
+      "details": "2021 · Certificato"
+    },
+    {
+      "title": "Corso virtuale su Unreal Engine 4",
+      "institution": "Potrero Digital / Fundación Compromiso",
+      "details": "2022 · Certificato"
+    }
+  ]
+},
+"tools": {
+  "title": "Strumenti"
+},
+"experience": {
+  "title": "Esperienze",
+  "items": [
+    {
+      "title": "Sviluppatore Front-End",
+      "company": "Grupo Broda / CREA",
+      "year": "2025",
+      "description": "Sviluppo di un portale finanziario con React, TypeScript e un design orientato all’esperienza utente."
+    },
+    {
+      "title": "Analista Retail / Supporto IT",
+      "company": "Grupo Broda",
+      "year": "2024",
+      "description": "Supporto tecnologico nei processi di controllo gestionale e retail per le aziende del gruppo."
+    }
+  ]
+},
+"contact": {
+  "title": "Contatto",
+  "description": "Sentiti libero di scrivermi! Sono sempre aperto a nuove opportunità e collaborazioni."
+},
+"header": {
+  "welcome": "Benvenuto/a nel mio sito web!"
+}
+
+}

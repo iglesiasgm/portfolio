@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "title": "Hola, soy Gabriel Iglesias",
+    "subtitle": "Desarrollador Frontend y Creador Creativo",
+    "cta": "Mirá mis proyectos"
+  },
+  "about": {
+  "title": "Sobre mí",
+  "description": "Soy estudiante avanzado de Ingeniería en Sistemas de Información y trabajo como Programador Front-End. Disfruto mucho del aprendizaje en informática y tecnología, siempre impulsado por el amor al arte y la estética, lo cual busco plasmar en cada interfaz y experiencia digital.",
+  "strengths": [
+    "Responsabilidad",
+    "Compromiso",
+    "Pensamiento creativo",
+    "Buen manejo del estrés",
+    "Facilidad para comunicarme",
+    "Aprendizaje continuo"
+  ],
+  "languages": "Inglés avanzado · Italiano y portugués básico"
+},
+"education": {
+  "title": "Formación académica",
+  "university": {
+    "title": "Ingeniería en Sistemas de Información",
+    "institution": "Universidad Tecnológica Nacional, Mendoza",
+    "details": "Desde 2022 · Tercer año en curso"
+  },
+  "subjectsTitle": "Materias aprobadas",
+  "subjects": [
+    "Bases de Datos (2024)",
+    "Sintaxis y Semántica de los Lenguajes (2023)",
+    "Sistemas Operativos (2023)",
+    "Paradigmas de Programación (2024)",
+    "Análisis de Sistemas de Información (2023)",
+    "Ingeniería y Sociedad (2023)",
+    "Sistemas y Procesos de Negocios (2022)",
+    "Probabilidad y Estadística (2024)",
+    "Desarrollo de Software (2024)",
+    "Computación Paralela (2024)"
+  ],
+  "complementary": [
+    {
+      "title": "Curso Virtual de Desarrollo de Videojuegos",
+      "institution": "UTN Chaco",
+      "details": "2021 · Certificado completo"
+    },
+    {
+      "title": "Curso de Unreal Engine 4",
+      "institution": "Potrero Digital / Fundación Compromiso",
+      "details": "2022 · Certificado completo"
+    }
+  ]
+},
+"tools": {
+  "title": "Herramientas"
+},
+"experience": {
+  "title": "Experiencias",
+  "items": [
+    {
+      "title": "Programador Front-End",
+      "company": "Grupo Broda / CREA",
+      "year": "2025",
+      "description": "Desarrollo de un portal financiero con React, TypeScript y diseño orientado a la experiencia del usuario."
+    },
+    {
+      "title": "Analista de Retail / Soporte IT",
+      "company": "Grupo Broda",
+      "year": "2024",
+      "description": "Asistencia tecnológica y soporte en procesos de control de gestión y retail para empresas del grupo."
+    }
+    
+  ]
+},
+"contact": {
+  "title": "Contacto",
+  "description": "Podés escribirme por cualquiera de estos medios. ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones!"
+},
+"header": {
+  "welcome": "¡Bienvenido/a a mi sitio web!"
+}
+
+
+}

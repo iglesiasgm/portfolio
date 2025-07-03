@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "title": "Hi, I'm Gabriel Iglesias",
+    "subtitle": "Frontend Developer & Creative Coder",
+    "cta": "Check my work"
+  },
+  "about": {
+  "title": "About Me",
+  "description": "I'm an advanced student of Information Systems Engineering and work as a Front-End Developer. I'm passionate about learning in technology and computing, always driven by my love for aesthetics and design, which I aim to reflect in every digital experience.",
+  "strengths": [
+    "Responsibility",
+    "Commitment",
+    "Creative thinking",
+    "Calm under pressure",
+    "Good communication",
+    "Continuous learning"
+  ],
+  "languages": "Advanced English · Basic Italian, French and Portuguese"
+},
+"education": {
+  "title": "Education",
+  "university": {
+    "title": "Information Systems Engineering",
+    "institution": "National Technological University, Mendoza",
+    "details": "Since 2022 · Currently in 3rd year"
+  },
+  "subjectsTitle": "Approved subjects",
+  "subjects": [
+    "Databases (2024)",
+    "Syntax and Semantics of Languages (2023)",
+    "Operating Systems (2023)",
+    "Programming Paradigms (2024)",
+    "Information Systems Analysis (2023)",
+    "Engineering and Society (2023)",
+    "Business Systems and Processes (2022)",
+    "Probability and Statistics (2024)",
+    "Software Development (2024)",
+    "Parallel Computing (2024)"
+  ],
+  "complementary": [
+    {
+      "title": "Online Video Game Development Course",
+      "institution": "UTN Chaco",
+      "details": "2021 · Certified"
+    },
+    {
+      "title": "Unreal Engine 4 Virtual Course",
+      "institution": "Potrero Digital / Fundación Compromiso",
+      "details": "2022 · Certified"
+    }
+  ]
+},
+"tools": {
+  "title": "Tools"
+},
+"experience": {
+  "title": "Experience",
+  "items": [
+    {
+      "title": "Front-End Developer",
+      "company": "Grupo Broda / CREA",
+      "year": "2025",
+      "description": "Development of a financial portal using React, TypeScript and user-focused design."
+    },
+    {
+      "title": "Retail Analyst / IT Support",
+      "company": "Grupo Broda",
+      "year": "2024",
+      "description": "Technology assistance and support in retail and management control processes for the group’s companies."
+    }
+  ]
+},
+"contact": {
+  "title": "Contact",
+  "description": "Feel free to reach out! I'm always open to new opportunities and collaborations."
+},
+"header": {
+  "welcome": "Welcome to my website!"
+}
+
+}
+
+
