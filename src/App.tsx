@@ -37,7 +37,7 @@ function App() {
   }
 
   return (
-    <div className="min-h-screen bg-[#f7f7ba] text-[#993399] relative overflow-hidden">
+    <div className="min-h-screen bg-[#f7f7ba] text-[#993399] relative overflow-y-auto">
       {/* Header con selector de idioma */}
       <header className="sticky top-0 z-50 bg-[#993399] text-white p-4 flex justify-end">
         <LanguageSelector />

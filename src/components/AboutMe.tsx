@@ -4,7 +4,8 @@ export const AboutMe = () => {
   const { t } = useTranslation()
 
   return (
-    <section className="px-6 py-12 bg-[#f7f7ba] text-[#993399] h-full flex items-center justify-center">
+    <section className="px-6 py-12 bg-[#f7f7ba] text-[#993399] h-full md:h-full overflow-y-auto md:overflow-visible flex items-center justify-center">
+
       <div className="max-w-3xl text-center space-y-6">
         <h2 className="text-3xl font-bold" style={{ fontFamily: 'Geologica, sans-serif' }}>
           {t('about.title')}
@@ -33,3 +34,5 @@ export const AboutMe = () => {
     </section>
   )
 }
+
+/*flex items-center justify-center*/ 
