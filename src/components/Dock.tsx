@@ -1,6 +1,7 @@
 // src/components/Dock.tsx
-
+import { FaUser, FaLightbulb, FaBookOpen, FaTools, FaUserTie   } from "react-icons/fa";
 import { Section } from "../types/sections/sections"
+import { FaMessage } from "react-icons/fa6";
 
 
 interface DockProps {
@@ -10,12 +11,12 @@ interface DockProps {
 
 const Dock = ({ activeSection, setActiveSection }: DockProps) => {
   const buttons = [
-    { id: Section.Hero, label: '👋' },
-    { id: Section.About, label: '💡' },
-    { id: Section.Education, label: '🎓' },
-    { id: Section.Tools, label: '🛠️' },
-    { id: Section.Experience, label: '📂' },
-    { id: Section.Contact, label: '📬' },
+    { id: Section.Hero, label: <FaUser style={{color: "#f7f7ba"}}/> },
+    { id: Section.About, label: <FaLightbulb style={{color: "#f7f7ba"}}/> },
+    { id: Section.Education, label: <FaBookOpen style={{color: "#f7f7ba"}}/> },
+    { id: Section.Tools, label: <FaTools style={{color: "#f7f7ba"}}/> },
+    { id: Section.Experience, label: <FaUserTie style={{color: "#f7f7ba"}}/> },
+    { id: Section.Contact, label: <FaMessage style={{color: "#f7f7ba"}}/> },
   ]
 
   return (
