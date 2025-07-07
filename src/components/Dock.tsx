@@ -1,5 +1,5 @@
 // src/components/Dock.tsx
-import { FaUser, FaLightbulb, FaBookOpen, FaTools, FaUserTie   } from "react-icons/fa";
+import { FaUser, FaLightbulb, FaBookOpen, FaTools, FaSuitcase    } from "react-icons/fa";
 import { Section } from "../types/sections/sections"
 import { FaMessage } from "react-icons/fa6";
 
@@ -15,7 +15,7 @@ const Dock = ({ activeSection, setActiveSection }: DockProps) => {
     { id: Section.About, label: <FaLightbulb style={{color: "#f7f7ba"}}/> },
     { id: Section.Education, label: <FaBookOpen style={{color: "#f7f7ba"}}/> },
     { id: Section.Tools, label: <FaTools style={{color: "#f7f7ba"}}/> },
-    { id: Section.Experience, label: <FaUserTie style={{color: "#f7f7ba"}}/> },
+    { id: Section.Experience, label: <FaSuitcase style={{color: "#f7f7ba"}}/> },
     { id: Section.Contact, label: <FaMessage style={{color: "#f7f7ba"}}/> },
   ]
 
