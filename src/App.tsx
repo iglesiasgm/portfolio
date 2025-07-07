@@ -11,6 +11,7 @@ import Experience from './components/Experience'
 import Contact from './components/Contact'
 import { AnimatePresence } from 'framer-motion'
 import AnimatedSection from './components/AnimatedSection'
+import Approach from './components/Approach'
 
 
 function App() {
@@ -30,6 +31,8 @@ function App() {
         return <Experience />
       case Section.Contact:
         return <Contact />
+      case Section.Approach:
+        return <Approach />
       default:
       
         return null

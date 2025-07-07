@@ -77,6 +77,33 @@
 },
 "header": {
   "welcome": "¡Bienvenido/a a mi sitio web!"
+},
+"approach": {
+  "title": "Mi forma de trabajar",
+  "understanding": {
+    "title": "Comprender antes de actuar",
+    "desc": "Antes de buscar soluciones, me gusta entender bien el problema. Cada negocio tiene sus propias dinámicas y necesidades, por eso conocer el contexto es clave para hacer un trabajo útil y ajustado."
+  },
+  "communication": {
+    "title": "Comunicación clara y constante",
+    "desc": "Para que todo fluya, la comunicación con el equipo es esencial. Siempre estoy disponible para coordinar, compartir avances o resolver dudas, y me esfuerzo por que nada quede en el aire."
+  },
+  "research": {
+    "title": "Investigar y aplicar, siempre en equipo",
+    "desc": "Mi forma de trabajar es investigar lo que no sé, y aplicarlo de inmediato. Aprender tiene que estar unido a la práctica, y compartir el proceso con los demás siempre lo mejora."
+  },
+  "now": {
+    "title": "Hacer hoy lo que se pueda hoy",
+    "desc": "Intento no dejar tareas pendientes si puedo resolverlas ahora. En desarrollo, postergar lo simple puede complicar lo importante, así que me gusta mantener el flujo de trabajo limpio."
+  },
+  "professionalism": {
+    "title": "Profesionalismo con humildad",
+    "desc": "El trabajo no se lleva a lo personal. Me esfuerzo por mantenerme profesional, sereno y abierto a aprender. Si me equivoco, lo asumo, lo corrijo y lo tomo como parte del camino."
+  },
+  "user": {
+    "title": "Pensar como usuario",
+    "desc": "En frontend, lo que hacemos está en contacto directo con las personas. Por eso, además de que funcione, tiene que ser claro, agradable, comprensible y accesible. Siempre trato de ponerme en el lugar de quien va a usarlo."
+  }
 }
 
 

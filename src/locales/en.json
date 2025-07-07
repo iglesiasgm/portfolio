@@ -76,7 +76,36 @@
 },
 "header": {
   "welcome": "Welcome to my website!"
+},
+"approach": {
+  "title": "How I work",
+  "understanding": {
+    "title": "Understand before acting",
+    "desc": "Before looking for solutions, I like to thoroughly understand the problem. Every business has its own dynamics and needs, so knowing the context is key to doing useful and tailored work."
+  },
+  "communication": {
+    "title": "Clear and constant communication",
+    "desc": "To keep things running smoothly, communication with the team is essential. I'm always available to coordinate, share progress, or resolve doubts, and I strive to leave nothing unclear."
+  },
+  "research": {
+    "title": "Research and apply, always as a team",
+    "desc": "My way of working is to research what I don’t know and apply it right away. Learning has to be tied to practice, and sharing the process with others always improves it."
+  },
+  "now": {
+    "title": "Do today what can be done today",
+    "desc": "I try not to leave tasks pending if I can solve them now. In development, postponing small things can complicate the big ones, so I like to keep the workflow clean."
+  },
+  "professionalism": {
+    "title": "Professionalism with humility",
+    "desc": "Work should not be taken personally. I strive to remain professional, calm, and open to learning. If I make a mistake, I own it, correct it, and see it as part of the journey."
+  },
+  "user": {
+    "title": "Think like a user",
+    "desc": "In frontend, what we create is directly experienced by users. That’s why it must not only work, but also be clear, pleasant, understandable, and accessible. I always try to put myself in the user’s shoes."
+  }
 }
+
+
 
 }
 
